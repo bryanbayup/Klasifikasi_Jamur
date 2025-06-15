@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Klasifikasi Jamur
+# Proyek Machine Learning - Klasifikasi Jamur
 
 ## Domain Proyek
 
